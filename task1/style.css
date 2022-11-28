@@ -25,6 +25,9 @@ p {
     font-size: 2rem;
     color: darkturquoise;
 }
+a {
+    color: aliceblue;
+}
 footer {
     margin-top: 500px;
     border-top: 1px solid white;

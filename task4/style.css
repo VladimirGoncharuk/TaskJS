@@ -22,6 +22,10 @@ h1 {
 a {
     color:rgb(50, 196, 183);text-decoration: none;font-size: 2rem;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+div a {
+    color:aliceblue;
+    font-size: 15px;
+}
 footer {
     margin-top: 31rem;
     border-top: 1px solid white;

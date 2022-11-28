@@ -30,6 +30,8 @@ label,p{
     color: fuchsia;
     font: 1.5rem sans-serif;
 }
+a {color:aliceblue}
+
 button{
     background-color:darkorchid;
     padding: 2px;

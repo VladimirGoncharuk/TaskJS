@@ -30,7 +30,7 @@ div {
         font-size: 20px;
   
   }
-  code{
+  code,a {
     color: rgb(245, 240, 238);
   }
   p:hover{
